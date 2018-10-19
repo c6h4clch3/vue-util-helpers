@@ -12,6 +12,10 @@ var __assign = (this && this.__assign) || function () {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 var vue_1 = require("vue");
+/**
+ *
+ * @param generator
+ */
 exports.createHOC = function (generator) { return function (target) {
     return generator(vue_1.default.extend({
         props: __assign({}, (typeof target === "function"
