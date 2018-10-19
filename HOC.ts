@@ -4,6 +4,11 @@ interface HOCBase extends Vue {
   $_HOC_context: VNodeData;
   $_HOC_slots: VNode[];
 }
+
+/**
+ *
+ * @param generator
+ */
 export const createHOC = (
   generator: (
     HOCBase: VueConstructor<HOCBase>,
