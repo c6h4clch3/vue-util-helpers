@@ -1,0 +1,8 @@
+{
+  "name": "vue-utilities",
+  "version": "1.0.0",
+  "description": "Vue.js Utilities Components & Helper Methods",
+  "main": "index.ts",
+  "author": "c6h4clch3 <c6h4clch3@gmail.com>",
+  "license": "MIT"
+}
