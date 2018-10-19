@@ -1,6 +1,6 @@
 {
-  "name": "vue-utilities",
-  "version": "1.0.0",
+  "name": "vue-util-helpers",
+  "version": "0.0.1",
   "description": "Vue.js Utilities Components & Helper Methods",
   "main": "/bin/index.js",
   "author": "c6h4clch3 <c6h4clch3@gmail.com>",
